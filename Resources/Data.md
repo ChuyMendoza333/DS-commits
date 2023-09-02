@@ -1,3 +1,4 @@
 # Data Science Documentation
 
-<a href="miarchivo.html">Enlace a mi archivo HTML</a>
+<a href="Colors_Palette.slides.html">Color Palets</a>
+
